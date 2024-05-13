@@ -8,6 +8,9 @@ body {
     font-family: 'Courier', monospace;
 
 }
+header {
+    background-color: #1e2f23;
+}
 h1, h2, h3 {
     color: #96e072;
     font-family: 'Courier', monospace;
@@ -15,6 +18,10 @@ h1, h2, h3 {
 a {
     color: #16db65;
     text-decoration: none;
+}
+a.hover {
+    color: #e4ff1a; /* yellow when hovered */
+    text-decoration: bold;
 }
 
 /*some other cool colors:
