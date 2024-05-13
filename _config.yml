@@ -1,3 +1,4 @@
-theme: jekyll-theme-minimal
 title: herman's blog
-description: some thoughts on deep learning
+logo: assets/img/logo.png
+description: some stuff I care about
+theme: jekyll-theme-minimal
