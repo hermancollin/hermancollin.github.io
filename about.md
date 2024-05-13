@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "about me"
-permalink: https://hermancollin.github.io/about
 ---
 
 ![hector](assets/img/hector.png)

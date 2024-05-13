@@ -14,5 +14,5 @@ things people said:
 > 
 > Andrew Gelman
 
-[about me](https://hermancollin.github.io/about)
+[about me](./about.md)
 
