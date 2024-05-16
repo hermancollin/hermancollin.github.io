@@ -4,3 +4,4 @@ description: some stuff I care about
 theme: jekyll-theme-minimal
 plugins:
   - jemoji
+  - jekyll-remote-theme
