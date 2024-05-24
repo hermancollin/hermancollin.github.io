@@ -6,13 +6,13 @@ title: "about herman"
 ![home](assets/img/home.png)
 
 # about me
-- I like DL, mathematics and images
+- I like mathematics, deep learning and images
 
-- I cook, draw and train hard; the latter is to set a good role model for my neural nets
+- when I find time, I enjoy painting, biking on my busted fixie or hiking in any forest
 
-- currently a Master's student at [NeuroPoly](https://neuro.polymtl.ca/) and one of the maintainers of [AxonDeepSeg](https://axondeepseg.readthedocs.io/)
+- one of the maintainers of [AxonDeepSeg](https://axondeepseg.readthedocs.io/)
 
-here you will find thoughts about my research or interesting stuff I read
+here, you will find thoughts about my research or article summaries to help me remember cool ideas
 
 *illustrations stolen from Mike Mignola*
 
