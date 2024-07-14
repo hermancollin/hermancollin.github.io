@@ -6,14 +6,9 @@ layout: default
 
 # homepage
 
-things people said:
-
-> *There is a plot. What would be the point of just a bunch of things?*
-<div style="text-align: right"> -David Lynch </div>
-<div style="text-align: center"> *** </div>
-
->*This is a textbook way too. It’s just my textbook.*
-<div style="text-align: right"> -Andrew Gelman </div>
+words someone said:
+<div id="randomCitation"></div>
+<br>
 
 [[about me]](./about.html)
 
@@ -37,3 +32,27 @@ this is what I have been up to lately
   </article>
   
 {% endfor %}
+
+<script>
+<!-- Code for random citation -->
+  document.addEventListener('DOMContentLoaded', function() {
+      const citations = [
+          { text: "There is a plot. What would be the point of just a bunch of things?", author: "David Lynch" },
+          { text: "This is a textbook way too. It’s just my textbook.", author: "Andrew Gelman" },
+          { text: "Then he unsmiled his lips and got real plural on me. 'We’ll let you know.'", author: "Norm Macdonald"}
+      ];
+
+      function getRandomCitation() {
+          const randomIndex = Math.floor(Math.random() * citations.length);
+          return citations[randomIndex];
+      }
+
+      function displayCitation() {
+          const citation = getRandomCitation();
+          document.getElementById('randomCitation').innerHTML = `<blockquote> <i>${citation.text}
+  <div style="text-align: right"> -${citation.author} </div> </i> </blocquote>`;
+      }
+
+      displayCitation();
+  });
+</script>
