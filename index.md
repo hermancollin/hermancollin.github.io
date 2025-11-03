@@ -22,6 +22,7 @@ refresh the page for more comical quotes
 
 {% for post in site.posts %}
   <article>
+    <hr>
     <h3>
       <a href="{{ post.url }}">
         {{ post.title }}
