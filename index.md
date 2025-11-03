@@ -31,6 +31,7 @@ refresh the page for more comical quotes
     <time datetime="{{ post.date | date: '%Y-%m-%d' }}">{{ post.date | date_to_long_string }}</time>
     | <i> {{ post.abstract }} </i>
     <br>
+    <br>   
     <!-- {{ post.content }} -->
   </article>
   
