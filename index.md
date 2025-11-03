@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![home](assets/img/home.png)
+<img src="assets/img/home.png" alt="home">
 
 # homepage
 
@@ -15,10 +15,10 @@ refresh the page for more comical quotes
 
 ---
 
-![home](assets/img/statues.png)
+<img src="assets/img/statues.png" alt="home">
 
-# posts
-this is what I have been up to lately
+<h1>posts</h1>
+<p>this is what I have been up to lately</p>
 
 {% for post in site.posts %}
   <article>
@@ -39,9 +39,9 @@ this is what I have been up to lately
   document.addEventListener('DOMContentLoaded', function() {
       const citations = [
           { text: "There is a plot. What would be the point of just a bunch of things?", author: "David Lynch" },
-          { text: "This is a textbook way too. It’s just my textbook.", author: "Andrew Gelman" },
+          { text: "This is a textbook way too. It's just my textbook.", author: "Andrew Gelman" },
           { text: 'That\'s right. My own beliefs are unbelievable.', author: "John C. Lilly"},
-          { text: "Then he unsmiled his lips and got real plural on me. 'We’ll let you know.'", author: "Norm Macdonald"}
+          { text: "Then he unsmiled his lips and got real plural on me. 'We'll let you know.'", author: "Norm Macdonald"}
       ];
 
       function getRandomCitation() {
