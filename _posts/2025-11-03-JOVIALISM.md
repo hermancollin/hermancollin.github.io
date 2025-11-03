@@ -27,7 +27,11 @@ Their website, [jovialiste.com/](https://jovialiste.com/), opens up to this rath
 They advocated to "abolish politics", based on the idea that "humans can self-organize without the need for governments". 
 In their ideal world, future societies would be governed by "scholar experts" who "represent the will of all without seeking to impose their own agenda". Of course, this is ridiculous because humans are fundamentally biased, and I think it sums up the weakness of this philosophy. Also, being one myself, I don't trust scholars with politics.
 
-![<img of jovialist tract>](https://jovialiste.com/wp-content/uploads/2016/11/jovialiste-2.jpg)
+<figure>
+  <img src="https://jovialiste.com/wp-content/uploads/2016/11/jovialiste-2.jpg" alt="Jovialist tract">
+  <figcaption>A jovialist tract from the movement</figcaption>
+</figure>
+
 
 ## Jovialism as a pejorative term
 As a sidenote on Moreau, I found this interesting quote about him, which I'll roughly translate here:
