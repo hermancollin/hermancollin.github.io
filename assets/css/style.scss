@@ -85,26 +85,28 @@ blockquote {
 figure {
     margin: 20px 0;
     text-align: center;
+    background-color: #0d2818; /* dark green background for the whole figure */
+    border: 2px solid #16db65;
+    border-radius: 4px;
+    padding: 15px;
     
     img {
         max-width: 100%;
         height: auto;
         border: 2px solid #16db65;
         border-radius: 4px;
+        margin-bottom: 10px; /* add some space between image and caption */
     }
 }
 
 figcaption {
-    margin-top: 8px;
+    margin-top: 0; /* remove top margin since we're adding space above */
     font-size: 0.9em;
     color: #96e072;
     font-style: italic;
     font-family: 'Courier', monospace;
     text-align: center;
-    padding: 0 10px;
-    
-    // Optional: add a subtle border or background
-    background-color: #0d2818;
-    padding: 8px 15px;
-    border-radius: 4px;
+    padding: 8px 0; /* only top/bottom padding since figure provides horizontal padding */
+    background-color: transparent; /* remove the separate background */
+    border-radius: 0; /* remove separate border radius */
 }

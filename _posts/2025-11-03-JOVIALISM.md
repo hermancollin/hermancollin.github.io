@@ -29,16 +29,16 @@ In their ideal world, future societies would be governed by "scholar experts" wh
 
 <figure>
   <img src="https://jovialiste.com/wp-content/uploads/2016/11/jovialiste-2.jpg" alt="Jovialist tract">
-  <figcaption>A jovialist tract from the movement</figcaption>
+  <figcaption>A tract inviting the reader to "the Great Jovialist SPIT-ROAST".</figcaption>
 </figure>
 
 
 ## Jovialism as a pejorative term
 As a sidenote on Moreau, I found this interesting quote about him, which I'll roughly translate here:
 
-> I understand that André Moreau's character can shock, and his ideas too. Moreau disturbs, exaggerate and sometimes appears ridiculous. He is our philosophical Dali.
+> I understand that André Moreau's character can shock, and his ideas too. Moreau disturbs, exaggerate and sometimes appears ridiculous. He is our philosophical Dali. <div style="text-align: right"> -Louis Gauthier</div>
 
-The author of this quote, writer and translator Louis Gauthier, portrayed Moreau as a misunderstood genius. While public opinion may have unfairly judged him, Moreau is ultimately remembered as someone whose optimism exceeded reasonable bounds... and this characterization extended to Moreau's creation (the _jovialism_ neologism and his movement in general). Today, when someone mentions _jovialism_, it is generally pejorative and means "overexaggerated reality-denying optimism".   
+The author of this quote, writer and translator Louis Gauthier, actually portrayed Moreau as a misunderstood genius. While public opinion may have unfairly judged him, Moreau is ultimately remembered as someone whose optimism exceeded reasonable bounds... and this characterization extended to Moreau's creation (the _jovialism_ neologism and his movement in general). Today, when a french canadian mentions _jovialism_, it is generally pejorative and means "overexaggerated reality-denying optimism".   
 
 ## Optimism or Jovialism
 Jovialism, in its pejorative sense, has quietly permeated our society — many people now exhibit this symptom without even realizing they've adopted such a approach. This phenomenon manifests in various ways: a relentless positivity culture that dismisses legitimate concerns as "negativity", the startup mentality that promises to "change the world" while ignoring systemic issues, and the self-help industry that sells oversimplified solutions to complex problems. We see it in social media's curated perfection, in corporate mission statements that claim noble purposes while pursuing profit above all else, and in political rhetoric that offers easy answers to multifaceted challenges. This modern jovialism creates a dangerous disconnect between perception and reality, where acknowledging problems becomes taboo and critical thinking is replaced by blind optimism. 
