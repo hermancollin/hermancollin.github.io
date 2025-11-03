@@ -8,8 +8,8 @@ layout: default
 
 words someone said:
 <div id="randomCitation"></div>
-<br>
 refresh the page for more comical quotes
+<br>
 <br>
 [[about me]](./about.html)
 
@@ -30,6 +30,7 @@ refresh the page for more comical quotes
     </h3>
     <time datetime="{{ post.date | date: '%Y-%m-%d' }}">{{ post.date | date_to_long_string }}</time>
     | <i> {{ post.abstract }} </i>
+    <br>
     <!-- {{ post.content }} -->
   </article>
   

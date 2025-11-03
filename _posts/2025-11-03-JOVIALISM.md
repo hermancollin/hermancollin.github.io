@@ -30,15 +30,15 @@ In their ideal world, future societies would be governed by "scholar experts" wh
 ## Jovialism as a pejorative term
 As a sidenote on Moreau, I found this interesting quote about him, which I'll roughly translate here:
 
-| I understand that André Moreau's character can shock, and his ideas too. Moreau disturbs, exaggerate and sometimes appears ridiculous. He is our philosophical Dali.
+> I understand that André Moreau's character can shock, and his ideas too. Moreau disturbs, exaggerate and sometimes appears ridiculous. He is our philosophical Dali.
 
 The author of this quote, writer and translator Louis Gauthier, portrayed Moreau as a misunderstood genius. While public opinion may have unfairly judged him, Moreau is ultimately remembered as someone whose optimism exceeded reasonable bounds... and this characterization extended to Moreau's creation (the _jovialism_ neologism and his movement in general). Today, when someone mentions _jovialism_, it is generally pejorative and means "overexaggerated reality-denying optimism".   
 
 ## Optimism or Jovialism
 Jovialism, in its pejorative sense, has quietly permeated our society—many people now exhibit this symptom without even realizing they've adopted such an approach. In particular, 
-I think the tech industry is full of jovialists. And this is also the problem with smart people. Someone who is really smart can manipulate others, but more importantly can gaslight himself into believing the most absurd stories. I'm sure a lot of top FAANG engineers fully realized that they are __not__ improving society, because these are really smart people and smart people understand these things. However, they will happily gaslight themselves into thinking that their 7-figure high-level executive role at Amazon actually contributed to making the world a better place. This is the same thing as eating meat: I eat meat because it tastes good, but I also know that it's wrong. Most of us engage in this schizophrenic paradigm to buy meat originating from mass breeding, because deep down we all know that these industries are nightmarish hellscapes. However, when you start denying reality, you open the door to jovialism, and everything around you becomes hearts and butterflies! 
+I think the tech industry is full of jovialists. And this is also the problem with smart people. Someone who is really smart can manipulate others, but more importantly can gaslight himself into believing the most absurd stories. I'm sure a lot of top FAANG engineers fully realized that they are _not_ improving society, because these are really smart people and smart people understand these things. However, they will happily gaslight themselves into thinking that their 7-figure high-level executive role at Amazon actually contributed to making the world a better place. This is the same thing as eating meat: I eat meat because it tastes good, but I also know that it's wrong. Most of us engage in this schizophrenic paradigm to buy meat originating from mass breeding, because deep down we all know that these industries are nightmarish hellscapes. However, when you start denying reality, you open the door to jovialism, and everything around you becomes hearts and butterflies! 
 
-🧡🦋
+<div align="center">🧡🦋</div>
 
 ### Sources
 
