@@ -44,7 +44,7 @@ In particular, I think the tech industry is filled with jovialists. And this is 
 
 ### Sources
 
-- [https://fr.wikipedia.org/wiki/Mouvement_jovialiste](https://fr.wikipedia.org/wiki/Mouvement_jovialiste)
-- [https://fr.wikipedia.org/wiki/Andr%C3%A9_Moreau_(philosophe)](https://fr.wikipedia.org/wiki/Andr%C3%A9_Moreau_(philosophe))
-- [https://jovialiste.com/](https://jovialiste.com/)
-- [Amazon VP On Stack Ranking & PIPs, Working With Bezos, His Promotions](https://youtu.be/40-ENZmqcz0?si=MViJ5zjmosPthzpp)
+- [fr.wikipedia.org/wiki/Mouvement_jovialiste](https://fr.wikipedia.org/wiki/Mouvement_jovialiste)
+- [fr.wikipedia.org/wiki/Andr%C3%A9_Moreau_(philosophe)](https://fr.wikipedia.org/wiki/Andr%C3%A9_Moreau_(philosophe))
+- [jovialiste.com/](https://jovialiste.com/)
+- [Amazon VP On Stack Ranking & PIPs, Working With Bezos, His Promotions (youtube)](https://youtu.be/40-ENZmqcz0?si=MViJ5zjmosPthzpp)
