@@ -37,6 +37,7 @@ a:hover {
 // Text justification for post content
 section {
     text-align: justify;
+    border: none !important; /* Remove the white border from theme */
 }
 
 // Article content justification
