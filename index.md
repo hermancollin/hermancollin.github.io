@@ -46,8 +46,8 @@ refresh the page for more comical quotes
           { text: "There is a plot. What would be the point of just a bunch of things?", author: "David Lynch" },
           { text: "This is a textbook way too. It's just my textbook.", author: "Andrew Gelman" },
           { text: 'That\'s right. My own beliefs are unbelievable.', author: "John C. Lilly"},
-          { text: "Then he unsmiled his lips and got real plural on me. \"We'll let you know.", author: "Norm Macdonald"}
-          { text: "I understand quickly, but you have to explain for a long time.", author: "My grandmother Thérèse"}
+          { text: "Then he unsmiled his lips and got real plural on me. \"We'll let you know.\"", author: "Norm Macdonald"},
+          { text: "I'm quick to understand, but you have to explain for a long time.", author: "My grandmother Thérèse"}
       ];
 
       function getRandomCitation() {
@@ -58,7 +58,7 @@ refresh the page for more comical quotes
       function displayCitation() {
           const citation = getRandomCitation();
           document.getElementById('randomCitation').innerHTML = `<blockquote> <i>${citation.text}
-  <div style="text-align: right"> -${citation.author} </div> </i> </blocquote>`;
+          <div style="text-align: right"> -${citation.author} </div> </i> </blockquote>`;
       }
 
       displayCitation();

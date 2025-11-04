@@ -10,7 +10,7 @@ abstract: 'About jovialism, i.e. overexaggerated reality-denying optimism'
 ## Jovialism?
 
 <figure>
-  <img src="https://jovialiste.com/wp-content/uploads/2015/02/favicon-144pix.png", alt="logo of the jovialist movement">
+  <img src="https://jovialiste.com/wp-content/uploads/2015/02/favicon-144pix.png" alt="logo of the jovialist movement">
   <figcaption><i>"Those who voluntarily experience happiness are called JOVIALISTS and Thursday is their day!"</i></figcaption>
 </figure>
 
