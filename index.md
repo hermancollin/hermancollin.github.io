@@ -28,7 +28,9 @@ refresh the page for more comical quotes
         {{ post.title }}
       </a>
     </h3>
-      <time datetime="{{ post.date | date: '%Y-%m-%d' }}" style="color: white;">{{ post.date | date_to_long_string }}</time>
+      <time datetime="{{ post.date | date: '%Y-%m-%d' }}">
+        {{ post.date | date_to_long_string }}
+      </time>
     | <i> {{ post.abstract }} </i>
     <br>
     <br>   
