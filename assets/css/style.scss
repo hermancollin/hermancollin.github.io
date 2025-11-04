@@ -1,13 +1,14 @@
----
----
+--- --- @import "{{ site.theme }}";
 
-@import "{{ site.theme }}";
 body {
-    background-color: #020202; /* dark theme please */
-    color: #72b01d; /* matrix style */
+    background-color: #020202;
+    /* dark theme please */
+    color: #72b01d;
+    /* matrix style */
     font-family: 'Courier', monospace;
 
 }
+
 header {
     border-style: solid;
     border-color: #16db65;
@@ -15,16 +16,22 @@ header {
     padding: 10px 10px 10px 10px;
     text-align: center;
 }
-h1, h2, h3 {
+
+h1,
+h2,
+h3 {
     color: #96e072;
     font-family: 'Courier', monospace;
 }
+
 a {
     color: #16db65;
     text-decoration: none;
 }
+
 a:hover {
-    color: #e4ff1a; /* yellow when hovered */
+    color: #e4ff1a;
+    /* yellow when hovered */
     text-decoration: bold;
 }
 
@@ -40,26 +47,48 @@ article {
 
 // Blockquote styling for markdown quotations
 blockquote {
-    background-color: #0d2818; /* dark green background */
-    border-left: 4px solid #16db65; /* bright green left border */
+    background-color: #0d2818;
+    /* dark green background */
+    border-left: 4px solid #16db65;
+    /* bright green left border */
     padding: 15px 20px;
     margin: 20px 0;
     font-style: italic;
-    color: #96e072; /* lighter green text */
+    color: #96e072;
+    /* lighter green text */
     border-radius: 4px;
-    
+
     p {
-        margin: 0; /* remove default paragraph margins inside blockquotes */
+        margin: 0;
+        /* remove default paragraph margins inside blockquotes */
         line-height: 1.6;
     }
-    
+
+    // Right-align the last paragraph in blockquotes (typically attributions)
+    p:last-child {
+        text-align: right;
+        font-size: 0.9em;
+        margin-top: 10px;
+        color: #72b01d;
+    }
+
+    // If there's only one paragraph, don't right-align it (it's the quote, not attribution)
+    p:only-child {
+        text-align: left;
+        font-size: inherit;
+        margin-top: 0;
+        color: #96e072;
+    }
+
     // Nested blockquotes
     blockquote {
-        border-left-color: #058c42; /* different color for nested quotes */
-        background-color: #04471c; /* darker background for nested */
+        border-left-color: #058c42;
+        /* different color for nested quotes */
+        background-color: #04471c;
+        /* darker background for nested */
         margin: 10px 0;
     }
-    
+
     // Citation styling if using <cite> tags
     cite {
         display: block;
@@ -67,7 +96,8 @@ blockquote {
         font-size: 0.9em;
         color: #72b01d;
         font-style: normal;
-        
+        text-align: right;
+
         &:before {
             content: "— ";
         }
@@ -85,28 +115,34 @@ blockquote {
 figure {
     margin: 20px 0;
     text-align: center;
-    background-color: #0d2818; /* dark green background for the whole figure */
+    background-color: #0d2818;
+    /* dark green background for the whole figure */
     border: 2px solid #16db65;
     border-radius: 4px;
     padding: 15px;
-    
+
     img {
         max-width: 100%;
         height: auto;
         border: 2px solid #16db65;
         border-radius: 4px;
-        margin-bottom: 10px; /* add some space between image and caption */
+        margin-bottom: 10px;
+        /* add some space between image and caption */
     }
 }
 
 figcaption {
-    margin-top: 0; /* remove top margin since we're adding space above */
+    margin-top: 0;
+    /* remove top margin since we're adding space above */
     font-size: 0.9em;
     color: #96e072;
     font-style: italic;
     font-family: 'Courier', monospace;
     text-align: center;
-    padding: 8px 0; /* only top/bottom padding since figure provides horizontal padding */
-    background-color: transparent; /* remove the separate background */
-    border-radius: 0; /* remove separate border radius */
+    padding: 8px 0;
+    /* only top/bottom padding since figure provides horizontal padding */
+    background-color: transparent;
+    /* remove the separate background */
+    border-radius: 0;
+    /* remove separate border radius */
 }
