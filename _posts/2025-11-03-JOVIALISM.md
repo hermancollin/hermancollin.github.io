@@ -7,12 +7,13 @@ tags: me presentation
 abstract: 'About jovialism, i.e. overexaggerated reality-denying optimism'
 ---
 
+## Jovialism?
+
 <figure>
   <img src="https://jovialiste.com/wp-content/uploads/2015/02/favicon-144pix.png", alt="logo of the jovialist movement">
   <figcaption><i>"Those who voluntarily experience happiness are called JOVIALISTS and Thursday is their day!"</i></figcaption>
 </figure>
 
-## Jovialism?
 First, let's talk about the humorous history behind the usage of this term by Québécois people.
 French-Canadian philosopher André Moreau coined this term back in the 1970s when he founded the _Mouvement jovialiste_, 
 a philosophical non-profit organization advocating for a strong, joyous, cultivated life. At its 
