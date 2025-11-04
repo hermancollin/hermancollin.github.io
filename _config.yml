@@ -1,6 +1,6 @@
 title: herman's crypt
 logo: assets/img/logo.png
-description: some stuff I care about
+description: my personal blog 
 theme: jekyll-theme-minimal
 plugins:
   - jemoji
