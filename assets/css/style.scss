@@ -1,10 +1,11 @@
---- --- @import "{{ site.theme }}";
+--- 
+--- 
+
+@import "{{ site.theme }}";
 
 body {
-    background-color: #020202;
-    /* dark theme please */
-    color: #72b01d;
-    /* matrix style */
+    background-color: #020202; /* dark theme please */
+    color: #72b01d; /* matrix style */
     font-family: 'Courier', monospace;
 
 }
@@ -17,9 +18,7 @@ header {
     text-align: center;
 }
 
-h1,
-h2,
-h3 {
+h1, h2, h3 {
     color: #96e072;
     font-family: 'Courier', monospace;
 }
@@ -30,8 +29,8 @@ a {
 }
 
 a:hover {
-    color: #e4ff1a;
-    /* yellow when hovered */
+    color: #e4ff1a; /* yellow when hovered */
+
     text-decoration: bold;
 }
 
@@ -47,37 +46,18 @@ article {
 
 // Blockquote styling for markdown quotations
 blockquote {
-    background-color: #0d2818;
-    /* dark green background */
-    border-left: 4px solid #16db65;
-    /* bright green left border */
+    background-color: #0d2818; /* dark green background */
+    border-left: 4px solid #16db65; /* bright green left border */
     padding: 15px 20px;
     margin: 20px 0;
     font-style: italic;
-    color: #96e072;
-    /* lighter green text */
+    color: #96e072; /* lighter green text */
     border-radius: 4px;
 
     p {
         margin: 0;
         /* remove default paragraph margins inside blockquotes */
         line-height: 1.6;
-    }
-
-    // Right-align the last paragraph in blockquotes (typically attributions)
-    p:last-child {
-        text-align: right;
-        font-size: 0.9em;
-        margin-top: 10px;
-        color: #72b01d;
-    }
-
-    // If there's only one paragraph, don't right-align it (it's the quote, not attribution)
-    p:only-child {
-        text-align: left;
-        font-size: inherit;
-        margin-top: 0;
-        color: #96e072;
     }
 
     // Nested blockquotes
@@ -96,11 +76,6 @@ blockquote {
         font-size: 0.9em;
         color: #72b01d;
         font-style: normal;
-        text-align: right;
-
-        &:before {
-            content: "— ";
-        }
     }
 }
 
