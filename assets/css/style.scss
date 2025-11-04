@@ -13,7 +13,7 @@ body {
 header {
     border-style: solid;
     border-color: #16db65;
-    border-width: 5px;
+    border-width: 1px;
     padding: 10px 10px 10px 10px;
     text-align: center;
 }
@@ -99,7 +99,8 @@ figure {
     img {
         max-width: 100%;
         height: auto;
-        border: 2px solid #16db65;
+        /* I like the following border but it doesnt really work with transparent PNGs*/
+        // border: 2px solid #16db65;
         border-radius: 4px;
         margin-bottom: 10px;
         /* add some space between image and caption */
