@@ -3,7 +3,7 @@ layout: default
 title: "about me"
 ---
 
-![home](assets/img/home.png)
+![home](assets/img/mont.png)
 
 # about me
 - I make computers see neurons
