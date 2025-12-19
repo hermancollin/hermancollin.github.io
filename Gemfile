@@ -10,3 +10,4 @@ gem "jekyll", "~> 3.9.5", group: :jekyll_plugins
 # required for archlinux, see:
 # https://github.com/jekyll/jekyll/issues/9545#issuecomment-1941545195
 gem "json" 
+gem "csv"
