@@ -47,7 +47,8 @@ refresh the page for more comical quotes
           { text: "This is a textbook way too. It's just my textbook.", author: "Andrew Gelman" },
           { text: 'That\'s right. My own beliefs are unbelievable.', author: "John C. Lilly"},
           { text: "Then he unsmiled his lips and got real plural on me. \"We'll let you know.\"", author: "Norm Macdonald"},
-          { text: "I'm quick to understand, but you have to explain for a long time.", author: "My grandmother Thérèse"}
+          { text: "I'm quick to understand, but you have to explain for a long time.", author: "My grandmother Thérèse"},
+          { text: "Software is like sex: it's better when it's free.", author: "Linus Torvalds"}
       ];
 
       function getRandomCitation() {
