@@ -3,7 +3,7 @@ layout: post
 title: "On jovialism"
 date: 2025-11-03 11:43:00
 author: Armand Collin
-tags: me presentation
+tags: philosophy SWE jovialism Moreau
 abstract: 'About jovialism, i.e. overexaggerated reality-denying optimism'
 ---
 
@@ -38,7 +38,7 @@ The author of this quote, writer and translator Louis Gauthier, actually portray
 ## Optimism or Jovialism
 Jovialism, in its pejorative sense, has quietly permeated our society — many people now exhibit this symptom without even realizing they're sick. This phenomenon manifests in various ways: a relentless positivity culture that dismisses legitimate concerns as "negativity", the startup mentality that promises to "change the world" while ignoring systemic issues, and the self-help industry that sells oversimplified solutions to complex problems. We see it in social media's curated perfection, in corporate mission statements that claim noble purposes while pursuing profit above all else, and in political rhetoric that offers easy answers to multifaceted challenges. This modern jovialism creates a dangerous disconnect between perception and reality, where acknowledging problems becomes taboo and critical thinking is replaced by blind optimism. 
 
-In particular, I think the tech industry is filled with jovialists. And this is also a problem with smart people in general. A smart person can manipulate others, but can most importantly convince themselves to believe the most absurd narratives. I'm sure a lot of top FAANG engineers have fully internalized that they are _not_ improving society, because they are smart people and smart people understand these things. However, they will happily gaslight themselves into thinking that their 7-figure high-level executive role at Amazon actually contributed to making the world a better place. This is the same thing as eating meat: I eat consumer-grade meat because it tastes good, but I also know that it's wrong. My friend loves chicken, but she hates touching the raw flesh, so she always asks us to cut it when she cooks. Most of us engage in this schizophrenic paradigm at some level when we buy meat originating from mass breeding, because deep down we all know these industries hide nightmarish hellscapes. That ultraprocessed burger still looks super appetizing.
+In particular, I think the tech industry is filled with jovialists. And this is also a problem with smart people in general. A smart person can manipulate others, but can most importantly convince themselves to believe the most absurd narratives. I'm sure a lot of top FAANG engineers have fully internalized that they are _not_ improving society, because they are smart people and smart people understand these things. However, they will happily gaslight themselves into thinking that their 7-figure high-level executive role at Amazon actually contributed to making the world a better place. This is the same thing as eating meat: I eat consumer-grade meat because it tastes good, but I also know that it's wrong. My friend loves chicken, but she hates touching the raw flesh, so she always asks us to cut it when she cooks. Most of us engage in this schizophrenic paradigm at some level when we buy meat originating from mass breeding, because deep down, we are aware of the underlying industrial hellscapes. With that being said, an ultraprocessed burger still looks appetizing.
 
 When you start denying reality, you open the door to jovialism, and everything around you becomes hearts and butterflies! 
 
